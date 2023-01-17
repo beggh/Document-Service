@@ -1,0 +1,12 @@
+{
+  "name": "documentservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
